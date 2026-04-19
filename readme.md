@@ -116,19 +116,3 @@
 - Caso representado:
 
 ---
-
-## 🧭 11. Continuidad a 2º DAW
-
-- ¿Cómo se reutiliza este proyecto en 2º curso?
-- Módulos implicados:
-  - Desarrollo web
-  - Bases de datos
-  - APIs / servicios
-- Posible evolución del sistema:
-
----
-
-## 📝 12. Conclusión
-
-- Reflexión final sobre la transformación digital:
-- Lecciones aprendidas:
