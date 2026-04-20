@@ -46,3 +46,18 @@ Análisis de datos básico
 Cambios organizativos:
 Creación de rol de gestor digital
 Formación del personal en herramientas tecnológicas
+10) UML
+Casos de uso:
+Cliente: hacer pedido, registrarse, pagar
+Empleado: gestionar pedidos, actualizar stock
+Administrador: ver informes, gestionar sistema
+Clases:
+Cliente (id, nombre, email)
+Pedido (id, fecha, total)
+Producto (id, nombre, precio)
+Inventario (cantidad, producto)
+Usuario (rol)
+
+11) Conclusión
+
+La digitalización de FreshBite permite optimizar procesos, mejorar la experiencia del cliente y aumentar la rentabilidad. Adoptar tecnologías digitales no solo es una ventaja competitiva, sino una necesidad para adaptarse al mercado actual.
