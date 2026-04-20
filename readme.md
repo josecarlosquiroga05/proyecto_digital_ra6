@@ -1,118 +1,17 @@
-# 🚀 Proyecto de Transformación Digital (RA6)
+Proyecto RA6 · Transformación Digital
+1) Empresa
+Nombre: FreshBite
+Sector: Restauración (comida saludable)
+Situación actual:
+Restaurante local con pedidos presenciales y telefónicos. Control manual de inventario y sin presencia digital relevante. No dispone de web ni sistema de gestión integrado.
+2) Objetivos
+Digitalizar el proceso de pedidos mediante una plataforma online.
+Automatizar la gestión de inventario y proveedores.
+Mejorar la experiencia del cliente con seguimiento de pedidos y fidelización.
+3) Áreas
+Ventas: Gestión de pedidos online y en local.
+Logística: Control de inventario y abastecimiento.
+Marketing: Promoción en redes sociales y fidelización.
 
-## 🧑‍💼 1. Empresa
-- Nombre de la empresa:
-- Sector:
-- Descripción breve:
-
----
-
-## 🎯 2. Objetivos estratégicos (SMART)
-
-### Objetivo 1
-- Descripción:
-- Métrica:
-- Plazo:
-
-### Objetivo 2
-- Descripción:
-- Métrica:
-- Plazo:
-
-### Objetivo 3
-- Descripción:
-- Métrica:
-- Plazo:
-
----
-
-## 🏢 3. Áreas de la empresa
-
-| Área | Función | Sub-objetivo digital | Impacto esperado |
-|------|--------|----------------------|------------------|
-|      |        |                      |                  |
-|      |        |                      |                  |
-|      |        |                      |                  |
-
----
-
-## ⚙️ 4. Tecnologías habilitadoras digitales (THD)
-
-- Tecnología 1:
-  - Uso en la empresa:
-- Tecnología 2:
-  - Uso en la empresa:
-- Tecnología 3:
-  - Uso en la empresa:
-- Tecnología 4:
-  - Uso en la empresa:
-- Tecnología 5:
-  - Uso en la empresa:
-
----
-
-## 📊 5. Datos y tratamiento de la información
-
-- Tipos de datos que genera la empresa:
-- Cómo se capturan:
-- Cómo se almacenan:
-- Cómo se procesan:
-- Cómo se analizan:
-- Uso en la toma de decisiones:
-
----
-
-## 🔐 6. Seguridad y riesgos
-
-### Riesgos identificados
-1.
-2.
-3.
-
-### Medidas de protección
-1.
-2.
-3.
-
----
-
-## 👨‍💻 7. Recursos humanos
-
-- Nuevos perfiles necesarios:
-- Formación requerida:
-- Cambios organizativos:
-
----
-
-## 🔗 8. Integración de sistemas
-
-- ERP utilizado o propuesto:
-- CRM utilizado o propuesto:
-- BPM / automatización:
-- Integración entre sistemas:
-
----
-
-## 💡 9. Valor del proyecto
-
-- Beneficios económicos:
-- Mejora operativa:
-- Ventaja competitiva:
-- Riesgos de no digitalizar:
-
----
-
-## 📐 10. Modelado UML (OBLIGATORIO)
-
-### Casos de uso
-- Actores:
-- Funcionalidades principales:
-
-### Diagrama de clases
-- Entidades principales:
-- Relaciones:
-
-### Diagrama de secuencia (opcional)
-- Caso representado:
-
----
+Relación:
+Ventas genera datos que alimentan logística (stock) y marketing (hábitos del cliente). Logística asegura disponibilidad para ventas. Marketing impulsa la demanda.
